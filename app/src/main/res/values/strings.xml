@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="date">01.01.1917</string>
+    <string name="ok_button">Ok</string>
+</resources>
